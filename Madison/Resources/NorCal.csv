@@ -1,0 +1,122 @@
+,Year,State,Region,County,Median Income,Median Housing Price
+0,2018,California,NorCal,Lake County,48554,269408.3333333333
+1,2018,California,NorCal,Merced County,57745,268086.6666666667
+2,2018,California,NorCal,Stanislaus County,60321,312658.3333333333
+4,2018,California,NorCal,Sacramento County,69767,365454.1666666667
+5,2018,California,NorCal,El Dorado County,82742,491687.4166666667
+6,2018,California,NorCal,Monterey County,70681,618520.8333333334
+7,2018,California,NorCal,San Francisco County,112376,1573333.3333333333
+9,2018,California,NorCal,Tulare County,48817,232981.66666666666
+10,2018,California,NorCal,Humboldt County,50294,311112.5
+11,2018,California,NorCal,Madera County,56305,261362.5
+12,2018,California,NorCal,Santa Cruz County,86941,882375.0
+15,2018,California,NorCal,Marin County,126373,1344328.3333333333
+16,2018,California,NorCal,Placer County,88592,480125.8333333333
+17,2018,California,NorCal,Shasta County,56280,265287.5
+18,2018,California,NorCal,Solano County,84395,442833.3333333333
+19,2018,California,NorCal,Butte County,51652,320112.5
+20,2018,California,NorCal,Kings County,61663,232723.33333333334
+22,2018,California,NorCal,Fresno County,52629,268630.8333333333
+26,2018,California,NorCal,Sutter County,59121,293766.6666666667
+27,2018,California,NorCal,San Mateo County,124425,1580333.3333333333
+28,2018,California,NorCal,San Joaquin County,64119,367850.0
+29,2018,California,NorCal,Yuba County,46574,278813.3333333333
+30,2018,California,NorCal,Sonoma County,81395,667375.0
+31,2018,California,NorCal,Alameda County,102125,926358.3333333334
+32,2018,California,NorCal,Napa County,87025,704833.3333333334
+33,2018,California,NorCal,Yolo County,68670,439729.1666666667
+34,2018,California,NorCal,Nevada County,66299,412640.6666666667
+35,2018,California,NorCal,Mendocino County,51830,419929.1666666667
+37,2018,California,NorCal,Santa Clara County,126606,1318250.0
+38,2019,California,NorCal,Lake County,47138,265908.3333333333
+39,2019,California,NorCal,Yuba County,58765,294937.5
+40,2019,California,NorCal,Sonoma County,87828,655243.3333333334
+41,2019,California,NorCal,Alameda County,108322,911500.0
+42,2019,California,NorCal,Napa County,92769,706062.5
+43,2019,California,NorCal,Yolo County,71417,452575.8333333333
+44,2019,California,NorCal,Nevada County,68818,414954.1666666667
+45,2019,California,NorCal,Mendocino County,51744,402654.1666666667
+47,2019,California,NorCal,Santa Clara County,133076,1257229.1666666667
+48,2019,California,NorCal,Merced County,61167,279136.6666666667
+49,2019,California,NorCal,Stanislaus County,63037,326854.1666666667
+51,2019,California,NorCal,Tehama County,53475,255875.0
+52,2019,California,NorCal,Sacramento County,72017,379437.5
+53,2019,California,NorCal,El Dorado County,87059,497453.3333333333
+54,2019,California,NorCal,Monterey County,77514,630105.0
+55,2019,California,NorCal,San Francisco County,123859,1589416.6666666667
+57,2019,California,NorCal,Tulare County,57692,243641.66666666666
+58,2019,California,NorCal,Humboldt County,51662,322046.6666666667
+59,2019,California,NorCal,Madera County,64827,279229.1666666667
+60,2019,California,NorCal,Santa Cruz County,89269,889854.1666666666
+63,2019,California,NorCal,Marin County,110843,1306166.6666666667
+64,2019,California,NorCal,Placer County,97723,497370.8333333333
+65,2019,California,NorCal,Shasta County,63091,284626.6666666667
+66,2019,California,NorCal,Solano County,86652,449056.6666666667
+67,2019,California,NorCal,Butte County,62563,361633.3333333333
+68,2019,California,NorCal,Kings County,58453,246270.83333333334
+70,2019,California,NorCal,Fresno County,57518,281920.8333333333
+74,2019,California,NorCal,Sutter County,62777,310212.5
+75,2019,California,NorCal,San Mateo County,138500,1556666.6666666667
+76,2019,California,NorCal,San Joaquin County,68997,378562.5
+77,2021,California,NorCal,Kings County,62155,308729.1666666667
+79,2021,California,NorCal,Napa County,97213,911591.6666666666
+83,2021,California,NorCal,San Joaquin County,80681,487044.1666666667
+85,2021,California,NorCal,Shasta County,61125,359112.5
+86,2021,California,NorCal,Solano County,87770,565062.5
+87,2021,California,NorCal,Stanislaus County,73982,425541.6666666667
+89,2021,California,NorCal,Madera County,63454,370406.6666666667
+90,2021,California,NorCal,Marin County,118209,1601875.0
+91,2021,California,NorCal,Mendocino County,59444,547495.8333333334
+92,2021,California,NorCal,Merced County,53992,349625.0
+93,2021,California,NorCal,Monterey County,82163,854083.3333333334
+94,2021,California,NorCal,Nevada County,79519,546287.5
+95,2021,California,NorCal,Placer County,103659,637266.6666666666
+96,2021,California,NorCal,Sacramento County,80063,499083.3333333333
+97,2021,California,NorCal,San Benito County,101923,766100.0
+99,2021,California,NorCal,San Francisco County,121826,1810700.0
+101,2021,California,NorCal,San Mateo County,131796,2010708.3333333333
+102,2021,California,NorCal,Santa Clara County,141562,1629062.5
+103,2021,California,NorCal,Santa Cruz County,93933,1186204.1666666667
+104,2021,California,NorCal,Sonoma County,94295,767266.6666666666
+105,2021,California,NorCal,Sutter County,64251,399816.6666666667
+106,2021,California,NorCal,Tehama County,48810,327787.5
+107,2021,California,NorCal,Tulare County,58209,318210.0
+108,2021,California,NorCal,Yolo County,78146,575560.8333333334
+109,2021,California,NorCal,Yuba County,63303,401433.3333333333
+110,2021,California,NorCal,Lake County,61221,338235.0
+111,2021,California,NorCal,Alameda County,109729,1242958.3333333333
+112,2021,California,NorCal,Butte County,64738,434448.3333333333
+113,2021,California,NorCal,El Dorado County,87491,646720.0
+114,2021,California,NorCal,Fresno County,63656,367208.3333333333
+115,2021,California,NorCal,Humboldt County,54752,408544.1666666667
+117,2022,California,NorCal,Alameda County,122159,1306546.6666666667
+118,2022,California,NorCal,Butte County,64426,446898.3333333333
+119,2022,California,NorCal,El Dorado County,105982,671083.3333333334
+120,2022,California,NorCal,Fresno County,69571,408416.6666666667
+121,2022,California,NorCal,Humboldt County,57883,445941.6666666667
+123,2022,California,NorCal,Kings County,64368,337270.8333333333
+124,2022,California,NorCal,Lake County,51259,350866.6666666667
+126,2022,California,NorCal,Madera County,76920,413291.6666666667
+127,2022,California,NorCal,Marin County,136214,1722708.3333333333
+128,2022,California,NorCal,Mendocino County,65520,551875.0
+129,2022,California,NorCal,Merced County,66164,385948.3333333333
+130,2022,California,NorCal,Monterey County,92840,864791.6666666666
+131,2022,California,NorCal,Napa County,100318,989125.0
+132,2022,California,NorCal,Nevada County,78401,561875.0
+134,2022,California,NorCal,Placer County,105445,675269.1666666666
+136,2022,California,NorCal,Sacramento County,84211,536500.0
+137,2022,California,NorCal,San Benito County,111544,801240.8333333334
+140,2022,California,NorCal,San Francisco County,136692,1775333.3333333333
+141,2022,California,NorCal,San Joaquin County,86056,530778.3333333334
+143,2022,California,NorCal,San Mateo County,145388,2025041.6666666667
+145,2022,California,NorCal,Santa Clara County,150839,1749708.3333333333
+146,2022,California,NorCal,Santa Cruz County,102146,1319583.3333333333
+147,2022,California,NorCal,Shasta County,68276,378729.1666666667
+148,2022,California,NorCal,Solano County,92959,599041.6666666666
+149,2022,California,NorCal,Sonoma County,96830,826887.5
+150,2022,California,NorCal,Stanislaus County,75886,455695.0
+151,2022,California,NorCal,Sutter County,65018,431525.0
+152,2022,California,NorCal,Tehama County,58884,327394.1666666667
+153,2022,California,NorCal,Tulare County,64722,357455.8333333333
+155,2022,California,NorCal,Yolo County,83875,623743.3333333334
+156,2022,California,NorCal,Yuba County,65052,428329.1666666667
