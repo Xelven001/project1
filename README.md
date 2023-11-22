@@ -14,10 +14,12 @@ CSV files used can be found in 'Resources' folder within 'Brianne' folder.
 
 - In final_analysis.ipynb, I started by loading in a CSV file from the United States Census Bureau that had data from 2018 - 2022 about monthly housing costs.
 - I created a dataframe with this data and was able to create graphs, such as one that displays the monthly housing costs and how many housing units.
-  ![monthly_housing_cost](https://github.com/Xelven001/project1/assets/142977736/5ab81ec4-c7b0-4e22-bcde-91d4a9e68d65)
+
+   ![monthly_housing_cost](https://github.com/Xelven001/project1/assets/142977736/5ab81ec4-c7b0-4e22-bcde-91d4a9e68d65)
 
 - Another CSV is loaded in, also from the United States Census Bureau, that has data from 2018 - 2022 about the percentage of income spent on monthly housing costs.
 - With this data, I was able to create a dataframe and create another graph that displays the monthly owner costs as a percentage of household income.
+
   ![percentage_of_income](https://github.com/Xelven001/project1/assets/142977736/b395d47f-4778-49b4-b87f-5b015f2f809d)
 
 
