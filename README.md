@@ -26,6 +26,11 @@ CSV files used can be found in 'Resources' folder within 'Brianne' folder.
 
 
 # Josh
+All work for this project completed by Josh Mares can be found in the 'Josh' folder. 
+- The data cleanup for the project can be found in the 'data_cleaning' notebook.
+- Data cleanup for this project exports Clean CSV's into Clean Data Folder to be used in analysis notebook
+- The final analysis for the project can be found inside the 'final_analysis ' notebook. This notebook contains all analysis used for our presentation and saves figures into the Visuals folder also located within the Josh folder
+
 
 
 # Kyle
