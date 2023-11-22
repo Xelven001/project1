@@ -1,5 +1,6 @@
 # project1
 
+
 # Madison
 All work for this project completed by Madison Hamby can be found in the 'Madison' folder. 
 - The final analysis for the project can be found inside the 'final_analysis ' notebook. This notebook combines the work from the 'county_bar', 'hypothesis', and 'linear_regression' notebooks to have all the final work in one place. 
